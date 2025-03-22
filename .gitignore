@@ -83,6 +83,8 @@ StyleCopReport.xml
 coverage.opencover.xml
 coverage.cobertura.xml
 coverage.json
+**/coveragereport/
+**/TestResults/
 
 # Stryker Mutator
 stryker-output/
