@@ -1,0 +1,11 @@
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/bin/Debug/net8.0/BrinquedoDomain.deps.json
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.AssemblyInfoInputs.cache
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.AssemblyInfo.cs
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/bin/Debug/net8.0/BrinquedoDomain.dll
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/bin/Debug/net8.0/BrinquedoDomain.pdb
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.csproj.CoreCompileInputs.cache
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.dll
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/refint/BrinquedoDomain.dll
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/BrinquedoDomain.pdb
+/Users/alanbarros/src/github/ProjetoToy/BrinquedoDomain/obj/Debug/net8.0/ref/BrinquedoDomain.dll
